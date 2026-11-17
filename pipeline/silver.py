@@ -87,6 +87,7 @@ PARAMETROS_TIPADOS = {
     "reason": ("reason", "string"),
     "lead_source": ("lead_source", "string"),
     "method": ("method", "string"),
+    "element_id": ("element_id", "string"),
 }
 
 MOTIVO_EVENTO_FORA_CATALOGO = "evento fora do catálogo"
